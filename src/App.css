@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-card {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid gray;
+  margin: auto;
+  justify-content: center;
+  justify-content: space-between;
+}

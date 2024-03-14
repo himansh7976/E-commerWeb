@@ -1,0 +1,9 @@
+.card-main-compo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+    /* margin-top: 50px; */
+
+    background-color: rgb(163, 132, 52);
+}
